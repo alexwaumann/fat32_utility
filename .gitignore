@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+
+mfs
+mfs.dSYM
+
+fat32.img
